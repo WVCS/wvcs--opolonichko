@@ -1,5 +1,21 @@
-h1 {
-  color: blue;
+  ul {
+  list-style-type: none;
+  dilsplay: inline;
+  background-color: salmon;
+  width: 100%;
+  top: 0;
+  position: fixed;
+  
+
+}
+li {
+  display: inline;
+  padding: 15px 100px;
+  text-decoration: none;
   text-align: center;
-  font-size: 150px;
+
+}
+
+li a:hover {
+  background-color: #111;
 }
